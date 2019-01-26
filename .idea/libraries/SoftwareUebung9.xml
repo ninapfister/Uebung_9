@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SoftwareUebung9">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Desktop/FH/SoftwareUebung9/jackson-annotations-2.9.8.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/FH/SoftwareUebung9/jackson-core-2.9.8.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/FH/SoftwareUebung9/jackson-databind-2.9.8.jar!/" />
+      <root url="file://$USER_HOME$/Desktop/FH/SoftwareUebung9" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Desktop/FH/SoftwareUebung9" recursive="false" />
+  </library>
+</component>
